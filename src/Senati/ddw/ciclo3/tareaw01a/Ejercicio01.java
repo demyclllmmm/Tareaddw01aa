@@ -10,6 +10,7 @@ public class Ejercicio01 {
 		System.out.println("El resultado de la resta es "+(num1-num2));         
 		System.out.println("El resultado de la multiplicación es "+(num1*num2));         
 		System.out.println("El resultado de la división es "+(num1/num2)); 
+		System.out.println("El resultado de la división es "+(num1/num2)); 
 	}
 
 }
